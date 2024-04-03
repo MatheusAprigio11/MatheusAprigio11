@@ -12,6 +12,7 @@
   <br>
     <p>Technical Apprentice in Digital Solutions on CaP/ETS - BOSCH</p>
     <p>Education: Technical in Computing integrated to High School (2019 - 2022) : Dr. Leandro Franceschini</p>
+    <p>Education: Computer science : Unimetrocamp Wyden</p>
   <br>
     <div align="center">
       <h3> 🛠 Languages and tools</h3>
