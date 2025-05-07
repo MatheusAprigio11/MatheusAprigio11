@@ -10,7 +10,7 @@
 <div align="center">
   <h3>About me 😊 </h3>
   <br>
-    <p>Intern in Digital Solutions on CaP/ETS - BOSCH</p>
+    <p>Technical in Digital Solutions JR - BOSCH</p>
     <p>Education: Technical in Systems Development (2023 - 2024) : SENAI<p>
     <p>Education: Technical in Computing integrated to High School (2019 - 2022) : Dr. Leandro Franceschini</p>
     <p>Education: Computer science : Unimetrocamp Wyden</p>
